@@ -1,0 +1,6 @@
+{
+  "name": "Lumière",
+  "description": "App de Lumière Peluquería: servicios de alisado, color, corte, catálogo de precios y contacto directo por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
